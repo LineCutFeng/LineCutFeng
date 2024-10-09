@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LineCutFeng
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning OpenGl
+- 🌱 I’m currently learning OpenGL
 - 💞️ I’m looking to collaborate on Android Vision work
 - 📫 How to reach me : search keyword: LineCutFeng
 
